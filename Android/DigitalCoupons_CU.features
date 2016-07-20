@@ -6,7 +6,7 @@ like below
        a) For CU when he clicks "coupons" from aisle navigate to " Coupons signup page "
        b) After clicking "View available coupons" in Coupons signup page the user is navigated to " Coupons Landing page " 
 2) Please append the name as " Page validation " for the cases where we are specificaly validating the page elements in the scenario name itself
-
+3) Try to maintain 10-13 steps as Max
 
 @ReviewedOK
 @Priority1 @DigitalCoupons @TC01_CU_DC
